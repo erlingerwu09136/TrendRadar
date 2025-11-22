@@ -10,5 +10,10 @@ Qwen
 千问
 deepseek
 提示词
+!股
+！股票
+！交易
+！基金
+github
 
 
